@@ -1,4 +1,4 @@
-## Recommended procedure
+## Recommended procedure for setting up tutorial environment
 
 - Create a virtual environment
 
